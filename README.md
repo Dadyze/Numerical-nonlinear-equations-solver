@@ -37,7 +37,7 @@ You can install the required packages using `pip`. Here is a sample `requirement
    git clone https://github.com/yourusername/nonlinear-equation-solver.git
    cd nonlinear-equation-solver
 
-### reate a virtual environment (optional but recommended):
+### Create a virtual environment (optional but recommended):
 
 `python -m venv venv
 source venv/bin/activate `  # On Windows use `venv\Scripts\activate`
