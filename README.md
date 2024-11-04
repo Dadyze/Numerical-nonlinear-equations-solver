@@ -1,4 +1,4 @@
-# Nonlinear Equation Solver
+# Numerical Nonlinear Equation Solver
 
 This project provides a graphical user interface (GUI) built with Tkinter for solving nonlinear equations numerically. It utilizes NumPy for numerical calculations, Matplotlib for plotting, and SymPy for symbolic mathematics.
 
